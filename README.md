@@ -3,5 +3,7 @@
 <br>
 <h3>Each time you refresh the page, the pictures from 30 pictures are mixed.</h3>
 <br>
-<p>Images taken from unsplash.
-</p>
+<ul>
+  <li>Second project for Code 16 programme</li>
+  <li>Images taken from unsplash.</li>
+</ul>
